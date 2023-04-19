@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employess": [
+    {
+      "firstName": "Balaji",
+      "lastName": "T",
+      "email": "balaji@gmail.com",
+      "dob": "2023-04-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Pepperfry",
+      "experience": 2,
+      "package": 600000,
+      "id": 1
+    },
+    {
+      "firstName": "Abishek",
+      "lastName": "s",
+      "email": "abishek@gmail.com",
+      "dob": "2023-04-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Under Graduate",
+      "company": "Google",
+      "experience": 5,
+      "package": 300000,
+      "id": 2
+    },
+    {
+      "firstName": "Chethan ",
+      "lastName": "S",
+      "email": "chethan@gmail.com",
+      "dob": "2023-04-13T18:30:00.000Z",
+      "gender": "male",
+      "education": "Under Graduate",
+      "company": "MicroFocus",
+      "experience": 3,
+      "package": 120000,
+      "id": 3
+    },
+    {
+      "firstName": "Raj ",
+      "lastName": "kumar",
+      "email": "rajkumar@gmail.com",
+      "dob": "2022-12-19T18:30:00.000Z",
+      "gender": "male",
+      "education": "Under Graduate",
+      "company": "Trend trebo",
+      "experience": 1,
+      "package": 300000,
+      "id": 4
+    },
+    {
+      "firstName": "Name",
+      "lastName": "test",
+      "email": "test@gmai.com",
+      "dob": "2023-04-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "Under Graduate",
+      "company": "asdf",
+      "experience": 3,
+      "package": 3,
+      "id": 5
+    }
+  ]
+}
